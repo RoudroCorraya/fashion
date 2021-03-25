@@ -1,0 +1,351 @@
+/*================common CSS start===============*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    display: inline-block;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+
+/*================common CSS end===============*/
+
+
+/*=================banner_part start==============*/
+#banner_part{
+    width: 100%;
+    background: #f1f1f1;
+}
+#banner_part .items{
+    width: 100%;
+    display: flex;
+}
+#banner_part .items .img{
+    width: 37%;
+    background: gray;
+}
+#banner_part .items .img img{
+    width: 100%;
+    height: 100%;
+    
+}
+#banner_part .items .text{
+    width: 60%;
+    background: #29291d;
+   padding-left: 30px;
+    padding-bottom: 20px;
+}
+#banner_part .items .text h1{
+    padding-top: 60px;
+    color: #ebb910;
+     padding-left: 30px;
+}
+#banner_part .items .text p{
+     padding-left: 30px;
+    color: #b7abab;
+}
+#banner_part .items .text .details{
+    display: flex;
+    margin-top: 60px;
+}
+#banner_part .items .text .details .phone{
+    width: 40%;
+}
+#banner_part .items .text .details .phone p{
+    margin-bottom: 40px;
+    color:#fff;
+     padding-left: 30px;
+}
+#banner_part .items .text .details .phone p span{
+    display: block;
+    font-size: 14px;
+}
+#banner_part .items .text .details .address{
+    width: 50%;
+    
+}
+#banner_part .items .text .details .address p{
+    margin-top: 50px;
+    color:#fff;
+}
+#banner_part .items .text .details .address p span{
+    display: block;
+}
+
+
+
+/*=================banner_part start==============*/
+
+/*=================about_part start===================*/
+#about_part{
+    width: 100%;
+    
+}
+#about_part .items{
+    display: flex;
+}
+#about_part .items .about_me{
+    width: 40%;
+}
+#about_part .items .about_me h2{
+    background: yellow;
+    width: 339px;
+    padding: 20px 30px;
+    color: #4a3232;
+}
+#about_part .items .about_me .same{
+    width: 400px;
+    background: #f1f1f1;
+    margin-top: -37px;
+    margin-left: 22px;
+}
+#about_part .items .about_me p{
+   width: 230px;
+    padding: 40px 30px;
+    color: #4a3232;
+}
+#about_part .items .experience{
+    width: 60%;
+    padding-left: 35px;
+}
+#about_part .items .experience h2{
+    padding: 30px 0;
+     color: #4a3232;
+}
+#about_part .items .experience p.company{
+    padding-bottom: 10px;
+    font-size:14px;
+}
+#about_part .items .experience p.pera{
+   padding-bottom: 40px;
+    padding-right: 310px;
+    font-size:14px;
+    color: #b7abab;
+}
+
+
+/*=================about_part end===================*/
+
+/*=================education_part start===============*/
+
+
+#education_part{
+    width: 100%;
+}
+#education_part .items{
+    display: flex;
+}
+#education_part .items .edu{
+    width: 38%;
+}
+#education_part .items .edu h2{
+    padding-left: 35px;
+     color: #4a3232;
+}
+#education_part .items .edu .monster{
+    padding: 40px 35px;
+}
+#education_part .items .edu p{
+    font-size: 14px;
+     color: #4a3232;
+}
+#education_part .items .edu p.date{
+    color: #b7abab;
+}
+#education_part .items .creative p.date{
+    color: #b7abab;
+}
+#education_part .items .edu p span{
+    display: block;
+}
+#education_part .items .creative{
+    width: 50%;
+    padding-left: 45px;
+}
+#education_part .items .creative h2{
+    margin: 5px 0;
+     color: #4a3232;
+}
+#education_part .items .creative p{
+    padding-bottom: 30px;
+    padding-right: 235px;
+    padding-top: 20px;
+     color: #4a3232;
+}
+
+
+/*=================education_part end===============*/
+
+
+
+/*==================language_part start================*/
+
+#language_part{
+    width: 100%;
+    margin-top: 50px;
+
+}
+#language_part .items{
+    display: flex;
+}
+#language_part .items .langue{
+    width: 40%;
+}
+#language_part .items .langue h2{
+    padding-left: 35px;
+    margin-bottom: 30px;
+     color: #4a3232;
+}
+#language_part .items .langue .all_langue{
+    display: flex;
+}
+#language_part .items .langue .all_langue .left{
+    width: 30%;
+}
+#language_part .items .langue .all_langue .left ul li{
+    display: block;
+    margin: 20px 35px;
+     color: #4a3232;
+}
+#language_part .items .langue .all_langue .right{
+    width: 70%;
+}
+#language_part .items .langue .all_langue .right ul{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#language_part .items .langue .all_langue .right ul li{
+    margin-left: 5px;
+    color: yellow;
+}
+#language_part .items .langue .all_langue .right ul li.value{
+    color: #d8cdcd;
+}
+#language_part .items .skill{
+    width: 50%;
+    display: flex;
+    margin-top: -120px;
+    margin-left: 20px;
+}
+#language_part .items .skill .skill_p{
+    width: 190px;
+    display: flex;
+} 
+#language_part .items .skill .skill_p .text{
+    width: 88px;
+
+}
+#language_part .items .skill .skill_p .text ul.down{
+    margin-top: 30px;
+}
+#language_part .items .skill .skill_p .text ul li{
+    margin-top: 20px;
+    display: block;
+     color: #4a3232;
+}
+#language_part .items .skill .skill_p .icon{
+    width: 91px;
+}
+#language_part .items .skill .skill_p .icon ul.icon_skill{
+    margin-top: 30px;
+}
+#language_part .items .skill .skill_p .icon ul li{
+    margin-top: 20px;
+    color: yellow;
+    padding: 0 3px;
+}
+#language_part .items .skill .skill_p .icon ul li.value{
+    color: #d8cdcd;
+}
+#language_part .refference{
+    width: 60%;
+    margin-left: auto;
+    display: flex;
+    margin-top: -175px;
+}
+#language_part .refference .left{
+    width: 200px;
+    padding-left: 20px;
+}
+#language_part .refference .left ul li{
+    display: block;
+    margin-bottom: 5px;
+     color: #4a3232;
+}
+#language_part .refference .left h2{
+    padding: 30px 0;
+     color: #4a3232;
+}
+#language_part .refference .right{
+    width: 200px;
+}
+#language_part .refference .right ul{
+    margin-top: 85px;
+}
+#language_part .refference .right ul li{
+    display: block;
+    margin-bottom: 5px;
+}
+#language_part .refference .right h2{
+    padding: 30px 0;
+     color: #4a3232;
+}
+#language_part .refference ul li.date{
+    color: #b7abab;
+}
+/*==================language_part end================*/
+
+
+/*==================blank_part start=================*/
+
+.blank_part{
+    width: 100%;
+    background: #ffff;
+    height: 100px;
+}
+.blank_part .line{
+    width: 400px;
+    height: 20px;
+    background: yellow;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+
+
+
+
+/*=================blank_part end===================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,801 @@
+
+@media(min-width:320px) and (max-width:575px){
+    /*==============banner_part start=====================*/
+    #banner_part .items .img{
+        width: 160px;
+    }
+    #banner_part .items .text{
+        width: 160px;
+        padding-left: 10px;;
+    }
+    #banner_part .items .text h1{
+        padding: 20px 0;
+        
+    }
+    #banner_part .items .text p{
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    #banner_part .items .text .details{
+        position: relative;
+    }
+    #banner_part .items .text .details .phone{
+        width: 100%;
+        position: absolute;
+        bottom: 45%;
+        left: 0;
+        opacity: 1;
+        transform: translateY(-48%);
+    }
+    #banner_part .items .text .details .phone p{
+        margin-bottom: 5px;
+        padding: 0;
+        
+    }
+    #banner_part .items .text .details .address{
+        width: 100%;
+    }
+    #banner_part .items .text .details .address p{
+        margin-top: 40px;
+    }
+    /*==============banner_part end======================*/
+    
+    
+    /*==============about_part start======================*/
+    #about_part .items .about_me{
+        width: 150px;
+    }
+    #about_part .items .about_me h2{
+        width: 150px;
+        padding: 20px 0;
+       
+    }
+    #about_part .items .about_me p{
+        padding: 30px 0;
+         width: 150px;
+    }
+    #about_part .items .about_me .same{
+        margin-top: 0;
+        margin-left: 0;
+        width: 150px;
+    }
+    #about_part .items .experience{
+        width: 150px;
+        padding-left: 0;
+    }
+    #about_part .items .experience h2{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.pera{
+        padding-right: 0;
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.company{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.senior{
+        padding-left: 20px;
+    }
+    /*==============about_part end======================*/
+    
+    
+    /*==============education_part start================*/
+    #education_part .items .edu{
+        width: 150px;
+    }
+    #education_part .items .creative{
+        width: 150px;
+       padding-left: 20px;
+    }
+    #education_part .items .edu h2{
+    padding-left: 0;
+    }
+    #education_part .items .edu .monster{
+        padding: 20px 0;
+    }
+    #education_part .items .creative h2{
+        margin: 0;
+        font-size: 16px;
+    }
+    #education_part .items .creative p{
+        padding: 20px 0;
+    }
+    /*==============education_part end================*/
+
+    /*=============language_part start================*/
+    #language_part .items .langue{
+        width: 150px;
+       
+    }
+    #language_part .items .langue h2{
+        padding-left: 0;
+    }
+    #language_part .items .langue .all_langue{
+        width: 150px;
+    }
+    #language_part .items .langue .all_langue .left{
+        width: 60px;
+    }
+    #language_part .items .langue .all_langue .left ul li{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #language_part .items .langue .all_langue .right{
+        width: 90px;
+    }
+    #language_part .items .langue .all_langue .right ul{
+        margin-left: 0;
+    }
+    #language_part .items .langue .all_langue .right ul li{
+        margin-left: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill{
+        width: 150px;
+        margin-top: -50px;
+        display: flex;
+         
+    }
+    #language_part .items .skill .skill_p .text{
+        width: 85px;
+    }
+    #language_part .items .skill .skill_p .icon{
+        width: 65px;
+    }
+    #language_part .items .skill .skill_p .icon ul{
+        margin-top: 3px;
+    }
+    #language_part .items .skill .skill_p .icon ul li{
+        padding: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill .skill_p{
+      width: 150px;
+        margin-right: 20px;
+    }
+    #language_part .items .skill .skill_p.in{
+        margin-left: -170px;
+        margin-top: 120px;
+        
+    }
+    #language_part .mobile{
+        position: relative;
+    }
+    #language_part .refference{
+        position: absolute;
+        bottom: -80px;
+        opacity: 1;
+        width: 320px;
+        left: 150px;
+    }
+    #language_part .refference .left{
+        position: relative;
+    }
+    #language_part .refference .left h2{
+        padding: 5px 0;
+    }
+    #language_part .refference .right{
+        position: absolute;
+        bottom: -90px;
+        left: 20px;
+        opacity: 1;
+    }
+    /*=============language_part start================*/
+    
+    /*=============blank_part start================*/
+    .blank_part{
+        margin-top: 150px;
+        
+    }
+    .blank_part .line{
+        width: 150px;
+        margin-left: 0;
+    }
+    /*=============blank_part start================*/
+}
+
+@media(min-width:576px) and (max-width:767px){
+    /*==============banner_part start=====================*/
+    #banner_part .items .img{
+        width: 280px;
+    }
+    #banner_part .items .text{
+        width: 280px;
+        padding-left: 10px;;
+    }
+    #banner_part .items .text h1{
+        padding: 20px 0;
+        
+    }
+    #banner_part .items .text p{
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    #banner_part .items .text .details{
+        position: relative;
+    }
+    #banner_part .items .text .details .phone{
+        width: 100%;
+        position: absolute;
+        bottom: 45%;
+        left: 0;
+        opacity: 1;
+        transform: translateY(-48%);
+    }
+    #banner_part .items .text .details .phone p{
+        margin-bottom: 5px;
+        padding: 0;
+        
+    }
+    #banner_part .items .text .details .address{
+        width: 100%;
+    }
+    #banner_part .items .text .details .address p{
+        margin-top: 40px;
+    }
+    /*==============banner_part end======================*/
+    
+    
+    /*==============about_part start======================*/
+    #about_part .items .about_me{
+        width: 280px;
+    }
+    #about_part .items .about_me h2{
+        width: 280px;
+        padding: 20px 0;
+       
+    }
+    #about_part .items .about_me p{
+        padding: 30px 0;
+         width: 280px;
+    }
+    #about_part .items .about_me .same{
+        margin-top: 0;
+        margin-left: 0;
+        width: 280px;
+    }
+    #about_part .items .experience{
+        width: 280px;
+        padding-left: 0;
+    }
+    #about_part .items .experience h2{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.pera{
+        padding-right: 0;
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.company{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.senior{
+        padding-left: 20px;
+    }
+    /*==============about_part end======================*/
+    
+    
+    /*==============education_part start================*/
+    #education_part .items .edu{
+        width: 280px;
+    }
+    #education_part .items .creative{
+        width: 280px;
+       padding-left: 20px;
+    }
+    #education_part .items .edu h2{
+    padding-left: 0;
+    }
+    #education_part .items .edu .monster{
+        padding: 20px 0;
+    }
+    #education_part .items .creative h2{
+        margin: 0;
+        font-size: 16px;
+    }
+    #education_part .items .creative p{
+        padding: 20px 0;
+    }
+    /*==============education_part end================*/
+
+    /*=============language_part start================*/
+    #language_part .items .langue{
+        width: 280px;
+       
+    }
+    #language_part .items .langue h2{
+        padding-left: 0;
+        margin-top: -50px;
+    }
+    #language_part .items .langue .all_langue{
+        width: 280px;
+         margin-top: -30px;
+    }
+    #language_part .items .langue .all_langue .left{
+        width: 60px;
+       
+    }
+    
+    #language_part .items .langue .all_langue .left ul li{
+        margin-left: 0;
+        margin-right: 0;
+        
+    }
+    #language_part .items .langue .all_langue .right{
+        width: 90px;
+    }
+    #language_part .items .langue .all_langue .right ul{
+        margin-left: 0;
+    }
+    #language_part .items .langue .all_langue .right ul li{
+        margin-left: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill{
+        width: 280px;
+        margin-top: -90px;
+        display: flex;
+         
+    }
+    #language_part .items .skill .skill_p .text{
+        width: 85px;
+    }
+    #language_part .items .skill .skill_p .icon{
+        width: 65px;
+    }
+    #language_part .items .skill .skill_p .icon ul{
+        margin-top: 3px;
+    }
+    #language_part .items .skill .skill_p .icon ul li{
+        padding: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill .skill_p{
+      width: 150px;
+        margin-right: 20px;
+    }
+    #language_part .items .skill .skill_p.in{
+        margin-left: -170px;
+        margin-top: 120px;
+        
+    }
+    #language_part .mobile{
+        margin-top: 170px;
+        margin-left: -300px;
+    }
+    #language_part .refference .left{
+        
+        width: 140px;
+    }
+    #language_part .refference .left h2{
+        padding: 5px 0;
+    }
+
+    #language_part .refference .right{
+        margin-top: -50px;
+    }
+    /*=============language_part start================*/
+    
+    /*=============blank_part start================*/
+    .blank_part{
+        margin-top: 150px;
+        
+    }
+    .blank_part .line{
+        width: 150px;
+        margin-left: 0;
+        margin-top: -170px;
+    }
+    /*=============blank_part start================*/
+}
+
+@media(min-width:768px) and (max-width:991px){
+    /*==============banner_part start=====================*/
+    #banner_part .items .img{
+        width: 380px;
+    }
+    #banner_part .items .text{
+        width: 380px;
+        padding-left: 20px;;
+    }
+    #banner_part .items .text h1{
+        margin-top: 10px;
+        padding-left: 0;
+        padding-bottom: 20px;
+        
+    }
+    #banner_part .items .text p{
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    #banner_part .items .text .details{
+        margin-top: 20px;
+        
+    }
+
+    #banner_part .items .text .details .phone{
+        width: 50%;
+    }
+
+    #banner_part .items .text .details .phone p{
+        margin-bottom: 20px;
+        padding: 0;
+        
+    }
+    #banner_part .items .text .details .address{
+        width: 50%;
+    }
+    #banner_part .items .text .details .address p{
+        margin-top: 40px;
+    }
+    /*==============banner_part end======================*/
+    
+    
+    /*==============about_part start======================*/
+    #about_part .items .about_me{
+        width: 360px;
+        margin-left: 20px;
+        margin-top: -30px;
+    }
+    #about_part .items .about_me h2{
+        width: 360px;
+        padding: 20px 0;
+       
+    }
+    #about_part .items .about_me p{
+        padding: 30px 0;
+         width: 280px;
+    }
+    #about_part .items .about_me .same{
+        margin-top: 0;
+        margin-left: 0;
+        width: 360px;
+    }
+    #about_part .items .about_me .same p{
+        width: 200px;
+    }
+    #about_part .items .experience{
+        width: 380px;
+        padding-left: 0;
+    }
+    #about_part .items .experience h2{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.pera{
+        padding-right: 0;
+        padding-left: 20px;
+        width: 280px;
+    }
+    #about_part .items .experience p.company{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.senior{
+        padding-left: 20px;
+    }
+    /*==============about_part end======================*/
+    
+    
+    /*==============education_part start================*/
+    #education_part .items .edu{
+        width: 380px;
+        padding-left: 20px;
+    }
+    #education_part .items .creative{
+        width: 380px;
+       padding-left: 0;
+    }
+    #education_part .items .edu h2{
+    padding-left:  0;
+    }
+    #education_part .items .edu .monster{
+        padding: 20px 0;
+    }
+    #education_part .items .creative h2{
+        margin: 0;
+        font-size: 16px;
+    }
+    #education_part .items .creative p{
+        padding: 20px 0;
+        width: 330px;
+    }
+    /*==============education_part end================*/
+
+    /*=============language_part start================*/
+    #language_part .items .langue{
+        width: 360px;
+        padding-left: 20px;
+    }
+    #language_part .items .langue h2{
+        padding-left: 0;
+        margin-top: -50px;
+    }
+    #language_part .items .langue .all_langue{
+        width: 380px;
+         margin-top: -30px;
+    }
+    #language_part .items .langue .all_langue .left{
+        width: 100px;
+       
+    }
+    
+    #language_part .items .langue .all_langue .left ul li{
+        margin-left: 0;
+        margin-right: 0;
+        
+    }
+    #language_part .items .langue .all_langue .right{
+        width: 90px;
+    }
+    #language_part .items .langue .all_langue .right ul{
+        margin-left: 0;
+    }
+    #language_part .items .langue .all_langue .right ul li{
+        margin-left: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill{
+        width: 280px;
+        margin-top: -90px;
+        display: flex;
+         
+    }
+    #language_part .items .skill .skill_p .text{
+        width: 85px;
+    }
+    #language_part .items .skill .skill_p .icon{
+        width: 65px;
+    }
+    #language_part .items .skill .skill_p .icon ul{
+        margin-top: 3px;
+    }
+    #language_part .items .skill .skill_p .icon ul li{
+        padding: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill .skill_p{
+      width: 150px;
+        margin-right: 20px;
+    }
+    #language_part .items .skill .skill_p.in{
+        margin-left: 0;
+        margin-top: 0;
+        
+    }
+    #language_part .mobile{
+        margin-top: 100px;
+        margin-left: -120px;
+    
+    }
+    #language_part .refference{
+        
+    }
+    #language_part .refference .left{
+        
+        width: 200px;
+    }
+    #language_part .refference .left h2{
+        padding: 5px 0;
+    }
+
+    #language_part .refference .right{
+        margin-top: -50px;
+    }
+    /*=============language_part start================*/
+    
+    /*=============blank_part start================*/
+    .blank_part{
+        margin-top: 150px;
+        
+    }
+    .blank_part .line{
+        width: 300px;
+        margin-left: 0;
+        margin-top: -170px;
+    }
+    /*=============blank_part start================*/
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    /*==============banner_part start=====================*/
+    #banner_part .items .img{
+        width: 490px;
+    }
+    #banner_part .items .text{
+        width: 490px;
+        padding-left: 40px;;
+    }
+    #banner_part .items .text h1{
+        margin-top: 10px;
+        padding-left: 0;
+        padding-bottom: 50px;
+        
+    }
+    #banner_part .items .text p{
+        padding: 0;
+        margin-bottom: 40px;
+    }
+    #banner_part .items .text .details{
+        margin-top: 20px;
+    }
+
+    #banner_part .items .text .details .phone{
+        width: 50%;
+        
+    }
+
+    #banner_part .items .text .details .phone p{
+        margin-bottom: 20px;
+        padding: 0;
+        
+    }
+    #banner_part .items .text .details .address{
+        width: 50%;
+    }
+    #banner_part .items .text .details .address p{
+        margin-top: 40px;
+    }
+    /*==============banner_part end======================*/
+    
+    
+    /*==============about_part start======================*/
+    #about_part .items .about_me{
+        width: 490px;
+        margin-left: 20px;
+        margin-top: -30px;
+    }
+    #about_part .items .about_me h2{
+        width: 470px;
+        padding: 20px 0;
+       
+    }
+    #about_part .items .about_me p{
+        padding: 30px 0;
+         width: 280px;
+    }
+    #about_part .items .about_me .same{
+        margin-top: 0;
+        margin-left: 0;
+        width: 470px;
+    }
+    #about_part .items .about_me .same p{
+        width: 200px;
+    }
+    #about_part .items .experience{
+        width: 380px;
+        padding-left: 0;
+    }
+    #about_part .items .experience h2{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.pera{
+        padding-right: 0;
+        padding-left: 20px;
+        width: 280px;
+    }
+    #about_part .items .experience p.company{
+        padding-left: 20px;
+    }
+    #about_part .items .experience p.senior{
+        padding-left: 20px;
+    }
+    /*==============about_part end======================*/
+    
+    
+    /*==============education_part start================*/
+    #education_part .items .edu{
+        width: 490px;
+        padding-left: 20px;
+    }
+    #education_part .items .creative{
+        width: 490px;
+       padding-left: 20px;
+    }
+    #education_part .items .edu h2{
+    padding-left:  0;
+    }
+    #education_part .items .edu .monster{
+        padding: 20px 0;
+    }
+    #education_part .items .creative h2{
+        margin: 0;
+        font-size: 16px;
+    }
+    #education_part .items .creative p{
+        padding: 20px 0;
+        width: 330px;
+    }
+    /*==============education_part end================*/
+
+    /*=============language_part start================*/
+    #language_part .items .langue{
+        width: 490px;
+        padding-left: 20px;
+    }
+    #language_part .items .langue h2{
+        padding-left: 0;
+        margin-top: -50px;
+    }
+    #language_part .items .langue .all_langue{
+        width: 380px;
+         margin-top: -30px;
+    }
+    #language_part .items .langue .all_langue .left{
+        width: 100px;
+       
+    }
+    
+    #language_part .items .langue .all_langue .left ul li{
+        margin-left: 0;
+        margin-right: 0;
+        
+    }
+    #language_part .items .langue .all_langue .right{
+        width: 90px;
+    }
+    #language_part .items .langue .all_langue .right ul{
+        margin-left: 0;
+    }
+    #language_part .items .langue .all_langue .right ul li{
+        margin-left: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill{
+        width: 280px;
+        margin-top: -90px;
+        display: flex;
+         
+    }
+    #language_part .items .skill .skill_p .text{
+        width: 85px;
+    }
+    #language_part .items .skill .skill_p .icon{
+        width: 65px;
+    }
+    #language_part .items .skill .skill_p .icon ul{
+        margin-top: 3px;
+    }
+    #language_part .items .skill .skill_p .icon ul li{
+        padding: 0;
+        font-size: 14px;
+    }
+    #language_part .items .skill .skill_p{
+      width: 150px;
+        margin-right: 20px;
+    }
+    #language_part .items .skill .skill_p.in{
+        margin-left: 0;
+        margin-top: 0;
+        
+    }
+    #language_part .mobile{
+        margin-top: 100px;
+        margin-left: 80px;
+    
+    }
+    #language_part .refference{
+        
+    }
+    #language_part .refference .left{
+        
+        width: 200px;
+    }
+    #language_part .refference .left h2{
+        padding: 5px 0;
+    }
+
+    #language_part .refference .right{
+        margin-top: -50px;
+    }
+    /*=============language_part start================*/
+    
+    /*=============blank_part start================*/
+    .blank_part{
+        margin-top: 150px;
+        
+    }
+    .blank_part .line{
+        width: 300px;
+        margin-left: 0;
+        margin-top: -170px;
+    }
+    /*=============blank_part start================*/
+}
